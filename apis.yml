@@ -42,7 +42,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Serviced Apartments
 - Housing
 - Rentals
@@ -58,6 +58,7 @@ tags_raw:
 - Hospitality
 - Travel
 - Property Management
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
